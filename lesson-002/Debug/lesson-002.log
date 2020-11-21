@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  lesson-002.cpp
+d:\education\source\lesson-002\lesson-002.cpp(148): warning C4189: “hdc”: 局部变量已初始化但不引用
+  lesson-002.vcxproj -> D:\education\source\Debug\lesson-002-建立窗口.exe
