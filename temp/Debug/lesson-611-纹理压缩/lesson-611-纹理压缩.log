@@ -1,0 +1,318 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  stdafx.cpp
+  CELLDXTCompressor.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLDXTCompressor.cpp(345,23): warning C4244: “=”: 从“int”转换到“BYTE”，可能丢失数据
+  CELLFrameBigMap.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(124,10): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5409,45): error C3861: “WGS_84_RADIUS_EQUATOR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5472): message : 查看对正在编译的 类 模板 实例化“CELL::tellipsoidModel<T>”的引用
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5409,86): error C3861: “WGS_84_RADIUS_POLAR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTextureMgr.hpp(42,1): warning C4245: “return”: 从“int”转换到“CELL::uint”，有符号/无符号不匹配
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,31): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\list(24): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,37): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,22): error C2923: “std::map”: 对于参数“_Kty”，“string”不是有效的 模板 类型变量
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,22): error C2976: “std::map”: 模板 参数太少
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,35): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\list(24): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,41): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,26): error C2923: “std::map”: 对于参数“_Kty”，“string”不是有效的 模板 类型变量
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,26): error C2976: “std::map”: 模板 参数太少
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(31,9): error C2512: “std::map”: 没有合适的默认构造函数可用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75,1): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(55,25): error C2955: “std::map”: 使用 类 模板 需要 模板 参数列表
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(55,51): error C2663: “std::_Tree<_Traits>::find”: 4 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(56,35): error C2663: “std::_Tree<_Traits>::end”: 2 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(80,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(80,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, char [1024])”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(98,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(98,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, char [1024])”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(114,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(114,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, const char *)”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLFrameBigMap.cpp(59,64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  CELLImageLoader.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(124,10): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5409,45): error C3861: “WGS_84_RADIUS_EQUATOR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5472): message : 查看对正在编译的 类 模板 实例化“CELL::tellipsoidModel<T>”的引用
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5409,86): error C3861: “WGS_84_RADIUS_POLAR”: 找不到标识符
+  CELLOpenGL.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLOpenGL.cpp(8,40): warning C4100: “line”: 未引用的形参
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLOpenGL.cpp(11,17): warning C4189: “err”: 局部变量已初始化但不引用
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLOpenGL.cpp(56,15): warning C4100: “type”: 未引用的形参
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLOpenGL.cpp(56,15): warning C4100: “border”: 未引用的形参
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLOpenGL.cpp(179,27): warning C4245: “=”: 从“int”转换到“unsigned int”，有符号/无符号不匹配
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLOpenGL.cpp(216,27): warning C4245: “=”: 从“int”转换到“unsigned int”，有符号/无符号不匹配
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLOpenGL.cpp(227,49): warning C4100: “srcType”: 未引用的形参
+  CELLQuadTree.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(124,10): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5409,45): error C3861: “WGS_84_RADIUS_EQUATOR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5472): message : 查看对正在编译的 类 模板 实例化“CELL::tellipsoidModel<T>”的引用
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5409,86): error C3861: “WGS_84_RADIUS_POLAR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLQuadTree.cpp(130,35): warning C4244: “参数”: 从“CELL::int64”转换到“int”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLQuadTree.cpp(139,36): warning C4244: “参数”: 从“CELL::int64”转换到“int”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLQuadTree.cpp(148,36): warning C4244: “参数”: 从“CELL::int64”转换到“int”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLQuadTree.cpp(156,36): warning C4244: “参数”: 从“CELL::int64”转换到“int”，可能丢失数据
+  CELLTerrain.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(124,10): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5409,45): error C3861: “WGS_84_RADIUS_EQUATOR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5472): message : 查看对正在编译的 类 模板 实例化“CELL::tellipsoidModel<T>”的引用
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5409,86): error C3861: “WGS_84_RADIUS_POLAR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTextureMgr.hpp(42,1): warning C4245: “return”: 从“int”转换到“CELL::uint”，有符号/无符号不匹配
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,31): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\list(24): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,37): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,22): error C2923: “std::map”: 对于参数“_Kty”，“string”不是有效的 模板 类型变量
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,22): error C2976: “std::map”: 模板 参数太少
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,35): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\list(24): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,41): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,26): error C2923: “std::map”: 对于参数“_Kty”，“string”不是有效的 模板 类型变量
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,26): error C2976: “std::map”: 模板 参数太少
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(31,9): error C2512: “std::map”: 没有合适的默认构造函数可用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75,1): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(55,25): error C2955: “std::map”: 使用 类 模板 需要 模板 参数列表
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(55,51): error C2663: “std::_Tree<_Traits>::find”: 4 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(56,35): error C2663: “std::_Tree<_Traits>::end”: 2 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(80,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(80,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, char [1024])”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(98,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(98,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, char [1024])”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(114,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(114,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, const char *)”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(12,5): error C2512: “std::map”: 没有合适的默认构造函数可用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75,1): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(61,19): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(67,22): error C2955: “std::map”: 使用 类 模板 需要 模板 参数列表
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(67,43): error C2663: “std::_Tree<_Traits>::find”: 4 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(68,30): error C2663: “std::_Tree<_Traits>::end”: 2 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(75,23): error C2663: “std::_Tree<_Traits>::erase”: 3 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(124,72): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): warning C4477: “sprintf”: 格式字符串“%02d”需要类型“int”的参数，但可变参数 2 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): warning C4477: “sprintf”: 格式字符串“%06d”需要类型“int”的参数，但可变参数 3 拥有了类型“const CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): warning C4477: “sprintf”: 格式字符串“%06d”需要类型“int”的参数，但可变参数 4 拥有了类型“const CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(142,28): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(156,14): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(161,19): error C2663: “std::_Tree<_Traits>::find”: 4 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(161,41): error C2663: “std::_Tree<_Traits>::end”: 2 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(165,21): error C2678: 二进制“[”: 没有找到接受“CELL::CELLTerrain::MapNode”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(165,21): message : 尝试匹配参数列表“(CELL::CELLTerrain::MapNode, char [128])”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(173,15): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(178,18): error C2955: “std::map”: 使用 类 模板 需要 模板 参数列表
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(178,39): error C2663: “std::_Tree<_Traits>::find”: 4 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(179,26): error C2663: “std::_Tree<_Traits>::end”: 2 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(181,19): error C2663: “std::_Tree<_Traits>::erase”: 3 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): warning C4477: “sprintf”: 格式字符串“%02d”需要类型“int”的参数，但可变参数 2 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): warning C4477: “sprintf”: 格式字符串“%06d”需要类型“int”的参数，但可变参数 3 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): warning C4477: “sprintf”: 格式字符串“%06d”需要类型“int”的参数，但可变参数 4 拥有了类型“CELL::int64”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): message : 请考虑在格式字符串中使用“%lld”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): message : 请考虑在格式字符串中使用“%Id”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(203,29): message : 请考虑在格式字符串中使用“%I64d”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(233,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(235,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(239,38): warning C4244: “=”: 从“CELL::uint”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(241,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(243,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(247,38): warning C4244: “=”: 从“CELL::uint”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(249,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(251,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(254,38): warning C4244: “=”: 从“CELL::uint”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(256,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(258,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(262,38): warning C4244: “=”: 从“CELL::uint”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(264,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(266,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(269,38): warning C4244: “=”: 从“CELL::uint”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(271,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(273,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(277,38): warning C4244: “=”: 从“CELL::uint”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(297,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(299,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(304,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(306,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(311,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(313,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(317,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.cpp(319,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  stb_image.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(174,23): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(203,11): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(230,11): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(240,19): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(256,11): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(270,11): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(468,14): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(506,45): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(524,45): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(1116,31): warning C4457: “m”的声明隐藏了函数参数
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(1079,40): message : 参见“m”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(1437,45): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(1466,65): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(1484,46): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(1659,21): warning C4456: “k”的声明隐藏了上一个本地声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(1628,10): message : 参见“k”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(2401,45): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(2572,49): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(2578,66): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(2589,25): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(2597,50): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(2655,21): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(2658,58): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(2669,32): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(2707,40): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3112,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3116,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3124,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3132,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3145,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3162,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3166,22): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3387,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3396,27): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3401,42): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3405,42): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3450,69): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3508,30): warning C4244: “初始化”: 从“int”转换到“uint8”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\image\stb_image.cpp(3509,30): warning C4244: “初始化”: 从“int”转换到“int16”，可能丢失数据
+  lesson.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(124,10): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5409,45): error C3861: “WGS_84_RADIUS_EQUATOR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5472): message : 查看对正在编译的 类 模板 实例化“CELL::tellipsoidModel<T>”的引用
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLMath.hpp(5409,86): error C3861: “WGS_84_RADIUS_POLAR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTextureMgr.hpp(42,1): warning C4245: “return”: 从“int”转换到“CELL::uint”，有符号/无符号不匹配
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,31): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\list(24): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,37): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,22): error C2923: “std::map”: 对于参数“_Kty”，“string”不是有效的 模板 类型变量
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLTerrain.h(28,22): error C2976: “std::map”: 模板 参数太少
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,35): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\list(24): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,41): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,26): error C2923: “std::map”: 对于参数“_Kty”，“string”不是有效的 模板 类型变量
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(12,26): error C2976: “std::map”: 模板 参数太少
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(31,9): error C2512: “std::map”: 没有合适的默认构造函数可用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75,1): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(55,25): error C2955: “std::map”: 使用 类 模板 需要 模板 参数列表
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(55,51): error C2663: “std::_Tree<_Traits>::find”: 4 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(56,35): error C2663: “std::_Tree<_Traits>::end”: 2 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(80,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(80,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, char [1024])”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(98,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(98,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, char [1024])”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(114,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLResourceMgr.hpp(114,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, const char *)”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(96,18): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\list(24): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(96,1): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(96,29): error C2146: 语法错误: 缺少“;”(在标识符“strPath”的前面)
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(96,29): error C2065: “strPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(97,41): error C2065: “strPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(98,29): error C3083: “string”:“::”左侧的符号必须是一种类型
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(98,37): error C2039: "npos": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\list(24): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(98,1): error C2065: “npos”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(100,22): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\list(24): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(100,1): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(100,29): error C2146: 语法错误: 缺少“;”(在标识符“exePath”的前面)
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(100,29): error C2065: “exePath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(100,41): error C2065: “strPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(101,42): error C2065: “exePath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(101,1): error C2660: “strcpy”: 函数不接受 1 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 参见“strcpy”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(102,29): error C2065: “exePath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(103,33): error C3083: “string”:“::”左侧的符号必须是一种类型
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(103,41): error C2039: "npos": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\list(24): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(103,1): error C2065: “npos”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(105,26): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\list(24): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(105,1): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(105,33): error C2146: 语法错误: 缺少“;”(在标识符“resPath”的前面)
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(105,33): error C2065: “resPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(105,43): error C2065: “exePath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(106,21): error C2065: “resPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(107,46): error C2065: “resPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(107,1): error C2660: “strcpy”: 函数不接受 1 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 参见“strcpy”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(262,35): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-611-纹理压缩\CELLWinApp.hpp(265,33): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+  正在生成代码...

@@ -1,0 +1,153 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  stdafx.cpp
+  CELLFrameBigMap.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(124,10): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(5409,45): error C3861: “WGS_84_RADIUS_EQUATOR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(5472): message : 查看对正在编译的 类 模板 实例化“CELL::tellipsoidModel<T>”的引用
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(5409,86): error C3861: “WGS_84_RADIUS_POLAR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(12,35): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(25): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(12,41): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(12,26): error C2923: “std::map”: 对于参数“_Kty”，“string”不是有效的 模板 类型变量
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(12,26): error C2976: “std::map”: 模板 参数太少
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(29,9): error C2512: “std::map”: 没有合适的默认构造函数可用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75,1): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(51,25): error C2955: “std::map”: 使用 类 模板 需要 模板 参数列表
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(51,51): error C2663: “std::_Tree<_Traits>::find”: 4 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(52,35): error C2663: “std::_Tree<_Traits>::end”: 2 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(76,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(76,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, char [1024])”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(94,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(94,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, char [1024])”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(110,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(110,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, const char *)”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLFrameBigMap.cpp(49,64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  CELLImageLoader.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(124,10): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(5409,45): error C3861: “WGS_84_RADIUS_EQUATOR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(5472): message : 查看对正在编译的 类 模板 实例化“CELL::tellipsoidModel<T>”的引用
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(5409,86): error C3861: “WGS_84_RADIUS_POLAR”: 找不到标识符
+  CELLOpenGL.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLOpenGL.cpp(8,40): warning C4100: “line”: 未引用的形参
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLOpenGL.cpp(11,17): warning C4189: “err”: 局部变量已初始化但不引用
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLOpenGL.cpp(56,15): warning C4100: “type”: 未引用的形参
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLOpenGL.cpp(56,15): warning C4100: “border”: 未引用的形参
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLOpenGL.cpp(179,27): warning C4245: “=”: 从“int”转换到“unsigned int”，有符号/无符号不匹配
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLOpenGL.cpp(216,27): warning C4245: “=”: 从“int”转换到“unsigned int”，有符号/无符号不匹配
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLOpenGL.cpp(227,49): warning C4100: “srcType”: 未引用的形参
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLOpenGL.cpp(226,49): warning C4100: “srcFormat”: 未引用的形参
+  stb_image.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(174,23): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(203,11): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(230,11): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(240,19): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(256,11): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(270,11): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(468,14): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(506,45): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(524,45): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(1116,31): warning C4457: “m”的声明隐藏了函数参数
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(1079,40): message : 参见“m”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(1437,45): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(1466,65): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(1484,46): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(1659,21): warning C4456: “k”的声明隐藏了上一个本地声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(1628,10): message : 参见“k”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(2401,45): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(2572,49): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(2578,66): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(2589,25): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(2597,50): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(2655,21): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(2658,58): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(2669,32): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(2707,40): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3112,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3116,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3124,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3132,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3145,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3162,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3166,22): warning C4312: “类型强制转换”: 从“int”转换到更大的“unsigned char *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3387,16): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3396,27): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3401,42): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3405,42): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3450,69): warning C4312: “类型强制转换”: 从“int”转换到更大的“float *”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3508,30): warning C4244: “初始化”: 从“int”转换到“uint8”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\image\stb_image.cpp(3509,30): warning C4244: “初始化”: 从“int”转换到“int16”，可能丢失数据
+  lesson.cpp
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(124,10): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(5409,45): error C3861: “WGS_84_RADIUS_EQUATOR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(5472): message : 查看对正在编译的 类 模板 实例化“CELL::tellipsoidModel<T>”的引用
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLMath.hpp(5409,86): error C3861: “WGS_84_RADIUS_POLAR”: 找不到标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(12,35): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(25): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(12,41): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(12,26): error C2923: “std::map”: 对于参数“_Kty”，“string”不是有效的 模板 类型变量
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(12,26): error C2976: “std::map”: 模板 参数太少
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(29,9): error C2512: “std::map”: 没有合适的默认构造函数可用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75,1): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(51,25): error C2955: “std::map”: 使用 类 模板 需要 模板 参数列表
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(75): message : 参见“std::map”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(51,51): error C2663: “std::_Tree<_Traits>::find”: 4 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(52,35): error C2663: “std::_Tree<_Traits>::end”: 2 个重载没有“this”指针的合法转换
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(76,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(76,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, char [1024])”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(94,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(94,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, char [1024])”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(110,1): error C2678: 二进制“[”: 没有找到接受“CELL::CELLResourceMgr::MapTexture”类型的左操作数的运算符(或没有可接受的转换)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(324,18): message : 可能是“_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](const _Kty &)”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(153,18): message : 或    “_Ty &std::map<_Kty,_Ty,_Pr,_Alloc>::operator [](_Kty &&)”
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLResourceMgr.hpp(110,1): message : 尝试匹配参数列表“(CELL::CELLResourceMgr::MapTexture, const char *)”时
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(96,18): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(25): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(96,1): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(96,29): error C2146: 语法错误: 缺少“;”(在标识符“strPath”的前面)
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(96,29): error C2065: “strPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(97,41): error C2065: “strPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(98,29): error C3083: “string”:“::”左侧的符号必须是一种类型
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(98,37): error C2039: "npos": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(25): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(98,1): error C2065: “npos”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(100,22): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(25): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(100,1): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(100,29): error C2146: 语法错误: 缺少“;”(在标识符“exePath”的前面)
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(100,29): error C2065: “exePath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(100,41): error C2065: “strPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(101,42): error C2065: “exePath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(101,1): error C2660: “strcpy”: 函数不接受 1 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 参见“strcpy”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(102,29): error C2065: “exePath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(103,33): error C3083: “string”:“::”左侧的符号必须是一种类型
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(103,41): error C2039: "npos": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(25): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(103,1): error C2065: “npos”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(105,26): error C2039: "string": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\include\map(25): message : 参见“std”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(105,1): error C2065: “string”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(105,33): error C2146: 语法错误: 缺少“;”(在标识符“resPath”的前面)
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(105,33): error C2065: “resPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(105,43): error C2065: “exePath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(106,21): error C2065: “resPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(107,46): error C2065: “resPath”: 未声明的标识符
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(107,1): error C2660: “strcpy”: 函数不接受 1 个参数
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133,1): message : 参见“strcpy”的声明
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(250,35): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+D:\GIS\OpenGL-【197283】lesson-613-总结\source_v1\lesson-210-优化OpenGL上下文\CELLWinApp.hpp(253,33): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+  正在生成代码...
